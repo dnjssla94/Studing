@@ -1,0 +1,11 @@
+
+
+# file = open("sample.txt", mode = "w",encoding = 'UTF-8')
+# file.write("안녕 파이썬")
+# file.close()
+
+rfile = open("sample.txt", mode="r",encoding = 'utf-8' )
+content = rfile.read()
+rfile.close()
+
+print(content)

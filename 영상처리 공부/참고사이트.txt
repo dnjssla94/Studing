@@ -1,0 +1,11 @@
+참고 사이트
+이미지 합성 설명- https://m.blog.naver.com/PostView.nhn?blogId=samsjan
+g&logNo=220503082434&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+
+분산, 표준편차,Mahalanobis distance설명 최고- https://darkpgmr.tistory.com/41
+
+행렬의 고유벡터, 고유값: https://blog.naver.com/skkong89/221477872016
+
+차원축소, PCA: https://excelsior-cjh.tistory.com/167
+
+히스토그램, openCV 자료: https://webnautes.tistory.com/1274
